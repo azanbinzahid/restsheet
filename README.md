@@ -6,5 +6,8 @@ Built Using:
 2. https://gspread.readthedocs.io/en/latest/index.html
 
 Example:
-![Google Sheet](images/sheet.png?raw=true "Google Sheet")
-![API Response](images/api.png?raw=true "API Response:")
+### Sample Google Sheet:
+  ![Google Sheet](images/sheet.png?raw=true "Google Sheet")
+
+### Sample API Response
+  ![API Response](images/api.png?raw=true "API Response:")
